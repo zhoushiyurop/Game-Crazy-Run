@@ -1,0 +1,13 @@
+Library/metadata/1b/1b852d3c62124624888d03e611f7b1fc
+Library/metadata/1b/1b50cf5136461cb42989e927ae1e1267.info
+Library/metadata/10/10a526294333b45d0916e3da00f0e1fe.info
+build/
+docs/
+Library/
+General/
+Temp/
+Test/
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Crazy Run.sln
+.vs/
